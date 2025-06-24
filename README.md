@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-
-![](https://komarev.com/ghpvc/?username=hamidullah-hamidi&color=brightgreen)
-
+<!--
+  ![](https://komarev.com/ghpvc/?username=hamidullah-hamidi&color=brightgreen)
+-->
 
 - 👋 Hi, I’m hamidullah hamidi from Herat, Afghanistan
 - 👀 I’m interested in Web development 
